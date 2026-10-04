@@ -698,23 +698,20 @@ TCP
 The project intentionally focuses on the complete core implementation
 through Level 6.
 
-# Demonstrations
+## Demonstrations
 
-## Intermediate Implementation
+### Intermediate Implementation
 
--   Level 1 --- TCP and framing
--   Level 2 --- DH exchange
--   Level 3 --- KDF
-    [Level 1,2,3](https://drive.google.com/file/d/18SPKq9U-YiE-1KC-NKOeuoKyjZzZznIA/view?usp=drive_link)
--   Level 4 --- Handshake confirmation
-    [Level 4](https://drive.google.com/file/d/1llxyOQwB7noGDtuc-94Qxlj_xFuXM7pg/view?usp=drive_link)
--   Level 5 --- AES-GCM
--   Level 6 --- Secure 1-to-1 Chat
-    [Level 5,6 ](https://drive.google.com/file/d/1OCv7uArvBa9fUa8x5A6S5KXkOLukXRsN/view?usp=drive_link)
+- Level 1 --- TCP and framing
+- Level 2 --- DH exchange
+- Level 3 --- KDF [Level 1, 2, 3](https://drive.google.com/file/d/18SPKq9U-YiE-1KC-NKOeuoKyjZzZznIA/view?usp=drive_link)
+- Level 4 --- Handshake confirmation [Level 4](https://drive.google.com/file/d/1llxyOQwB7noGDtuc-94Qxlj_xFuXM7pg/view?usp=drive_link)
+- Level 5 --- AES-GCM
+- Level 6 --- Secure 1-to-1 Chat [Level 5, 6](https://drive.google.com/file/d/1OCv7uArvBa9fUa8x5A6S5KXkOLukXRsN/view?usp=drive_link)
 
-## Final Demonstration
-    
-    [Complete Demo](https://drive.google.com/file/d/1LWOpvq4hyYf1b7XM4wc5qmJdK13vlYqB/view?usp=drive_link)
+### Final Demonstration
+
+[Complete Demo](https://drive.google.com/file/d/1LWOpvq4hyYf1b7XM4wc5qmJdK13vlYqB/view?usp=drive_link)
 
 # Conclusion
 
