@@ -682,21 +682,21 @@ Custom TCP Frame
 TCP
 ```
 
-# Project Status
+## Project Status
 
-  Level                                Status
-  ------------------------------------ -----------------
-  Level 1 --- TCP + Framing            Completed
-  Level 2 --- Diffie-Hellman           Completed
-  Level 3 --- Key Derivation           Completed
-  Level 4 --- Handshake Confirmation   Completed
-  Level 5 --- AES-GCM Messaging        Completed
-  Level 6 --- 1-to-1 Chat              Completed
-  Level 7 --- Chat Room                Not implemented
-  Level 8 --- PKI                      Not implemented
+| Level | Status |
+|---|---|
+| Level 1 — TCP + Framing | Completed |
+| Level 2 — Diffie-Hellman | Completed |
+| Level 3 — Key Derivation | Completed |
+| Level 4 — Handshake Confirmation | Completed |
+| Level 5 — AES-GCM Messaging | Completed |
+| Level 6 — 1-to-1 Chat | Completed |
+| Level 7 — Chat Room | Not implemented |
+| Level 8 — PKI | Not implemented |
 
-The project intentionally focuses on the complete core implementation
-through Level 6.
+The project focuses on the complete core implementation through Level 6.
+
 
 ## Demonstrations
 
